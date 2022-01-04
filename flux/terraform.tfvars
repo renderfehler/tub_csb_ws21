@@ -1,0 +1,8 @@
+target_path             = "."
+flux_namespace          = "flux-system"
+cluster_name            = "csb2021-gke"
+cluster_region          = "europe-north1"
+github_deploy_key_title = "terraform"
+github_owner = "renderfehler"
+project_id = "csb2021"
+repository_name = "tub_csb_ws21"
